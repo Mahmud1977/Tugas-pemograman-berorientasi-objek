@@ -40,21 +40,21 @@ print("Nilai Akhir\t:", NA)
 
 if NA >= 80 and NA <=100 :
     print("Grade: A")
-elif NA >= 77: 
+elif NA >= 77 and NA <= 77.9: 
     print("Grade: A-")  
-elif NA >= 74 :
+elif NA >= 74 and NA <= 76.9 :
     print("Grade: B+")
-elif NA >= 71 :
+elif NA >= 71 and NA <= 73.9:
     print("Grade: B")
-elif NA >= 68 :
+elif NA >= 68 and NA <= 70.9 :
     print("Grade: B-")
-elif NA >= 64 :
+elif NA >= 64 and NA <= 67.9 :
     print("Grade: C+")
-elif NA >=60 :
+elif NA >=60 and NA <= 63.9 :
     print("Grade: C-")
-elif NA >=50 :
+elif NA >=50 and NA <= 59 :
     print("Grade: D")
-elif NA <= 49 :
+elif NA <= 49 and NA >= 0 :
     print("Grade: E")
 
 if NA >=60 :
