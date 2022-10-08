@@ -37,7 +37,7 @@ print("UTS :", UTS )
 print("UAS :", UAS)
 print("Nilai Akhir :", NA) 
 
-if NA >= 80:
+if NA >= 80 and NA <=100 :
     print("Grade: A")
 elif NA >= 77: 
     print("Grade: A-")  
