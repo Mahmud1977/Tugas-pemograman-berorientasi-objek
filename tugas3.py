@@ -1,6 +1,6 @@
 
 
-# Tugas Pemograman Berorientasi Objek - Sesi 6
+# Tugas Pemograman Berorientasi Objek - Sesi 3
 # Nama : MAHMUD S LAOPO
 # Nim  : 20210801203
 
