@@ -2,6 +2,7 @@
 # Nim   : 20210801203
 # TUGAS PBO - Sesi 4
 
+
 def hitungPPN():
     nilaiA = int(input("Masukan Nilai Pertama: "))
     nilaiB = int(input("Masukan Nilai Kedua: "))
